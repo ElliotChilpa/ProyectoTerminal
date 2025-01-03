@@ -1,0 +1,19 @@
+Asesora
+Dra. Izlian Yolanda Orea Flores 
+cedula: 13547745
+correo: iorea@ipn.mx
+
+Asesora
+Dra. en C.Bella Citlali Martínez
+cedula: 11878306
+correo: bemartinez@ipn.mx
+
+Suplente
+Dra. Susana Araceli Sanchez Najera
+cedula: 12403291
+correo: susanchez@ipn.mx
+
+Presidente
+Dra. Yesenia Eleonor González Navarro
+cedula: 11585187
+correo: ygonzalezn@ipn.mx
